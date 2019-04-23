@@ -94,6 +94,6 @@ http://localhost:4000/graphq
 
 `cqlsh -f killrvideo-inserts.cql`
 
-# Example GraphQL queries
+# Example GraphQL queries 
 
-[Queries](../graphl/queries.md)
+[Here](https://github.com/DobrinGanev/killrvideo-sample-schema-graphql/blob/master/nodejs/graphql/queries.md)
