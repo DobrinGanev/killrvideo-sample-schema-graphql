@@ -38,4 +38,4 @@ video_event - Example of a time series data model where there can be an unknown 
 
 ## Sample queries using GraphQL and Node.js
 
-[Queries](https://github.com/DobrinGanev/killrvideo-sample-schema-graphql/blob/master/nodejs/README.md)
+[GraphQL Node.js](https://github.com/DobrinGanev/killrvideo-sample-schema-graphql/blob/master/nodejs/README.md)
